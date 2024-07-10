@@ -7,8 +7,9 @@
 # 💫 About Me:
 ¡Hola! Soy un programador novel apasionado por la tecnología y el desarrollo de software. Con una actitud positiva por aprender y crecer en este campo. Estoy constantemente buscando nuevos desafíos y oportunidades para mejorar mis habilidades y contribuir a proyectos innovadores.<br><br>¿Por qué trabajar conmigo?<br>Aprendizaje Continuo: Estoy comprometido con el aprendizaje constante y me esfuerzo por estar al día con las últimas tendencias y tecnologías en programación.<br>Entusiasmo y Dedicación: Abordo cada proyecto con energía y dedicación, asegurando que doy lo mejor de mí en cada tarea.<br>Colaboración y Trabajo en Equipo: Creo firmemente en la colaboración y me encanta trabajar en equipo para alcanzar metas comunes y aprender de los demás.<br>Habilidades:<br>Lenguajes de Programación: Python, JavaScript, HTML, CSS<br>Frameworks y Librerías: React, Node.js, Django<br>Herramientas y Tecnologías: Git, GitHub, Docker<br>Estoy emocionado por la posibilidad de contribuir y crecer en proyectos desafiantes. Si buscas un desarrollador con ganas de aprender y un espíritu colaborativo, ¡me encantaría unirme a tu equipo!<br><br>Conectemos:<br>Puedes encontrarme en LinkedIn o contactarme a través de mi correo electrónico: iGL3Hdev.com ¡Espero con ansias la oportunidad de trabajar juntos!
 
+<p align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
-
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-i-2368111bb/) 
